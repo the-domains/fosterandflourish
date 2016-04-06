@@ -1,3 +1,7 @@
+name: Fosterandflourish
+favicon: null
+layout_spectrum: 0.6551433
+typography_spectrum: 0.8996627
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9494098
-  brandStrength: 0.193086
-  lightness: 0.06408095
   brandColors:
     - '#FFFFFF'
     - '#D8BEA3'
     - '#1F0C04'
     - '#776478'
     - '#9A271F'
+  brandStrength: 0.875
+  lightness: 0.06408095
+  saturation: 0.9494098
   rhythmicContrast: 0
-typography_spectrum: 0.8996627
-layout_spectrum: 0.6551433
-name: Fosterandflourish
+purpose: []
