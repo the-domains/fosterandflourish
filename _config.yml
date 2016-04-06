@@ -11,7 +11,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.9494098
   brandStrength: 0.193086
   lightness: 0.06408095
   brandColors:
@@ -21,6 +21,6 @@ color:
     - '#776478'
     - '#9A271F'
   rhythmicContrast: 0
-typography_spectrum: 1
+typography_spectrum: 0.8996627
 layout_spectrum: 0.6551433
 name: Fosterandflourish
