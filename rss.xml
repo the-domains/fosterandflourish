@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fosterandflourish]]></title>
+        <description><![CDATA[Fosterandflourish]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 22:33:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey, I’m Tina Foster.]]></title>
+            <description><![CDATA[<article><h1>Hey, I’m Tina Foster.</h1><p>I teach yogis and meditative-types how to create practices that flow seamlessly with their real lives. </p></article>]]></description>
+            <link>undefinedi-teach-yogis-and-meditative-types-how-to-create-practices-t/index.html</link>
+            <guid isPermaLink="false">df2fb868-3a5b-4b6d-9908-a4991afeb2d3</guid>
+            <pubDate>Wed, 06 Apr 2016 22:33:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
