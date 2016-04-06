@@ -10,14 +10,14 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8996627
 color:
-  saturation: 0.6711636
+  saturation: 0.8305228
   brandStrength: 0.9283305
-  lightness: 0.4873524
+  lightness: 0.7403035
   brandColors:
     - '#B4B4B4'
     - '#303030'
-  rhythmicContrast: 0
-typography_spectrum: 0.8996627
+  rhythmicContrast: 0.8608769
 layout_spectrum: 0.6551433
 name: Fosterandflourish
