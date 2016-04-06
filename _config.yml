@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.8996627
 color:
   saturation: 0.9662732
-  brandStrength: 0.9283305
+  brandStrength: 0.1871838
   lightness: 0.9620574
   brandColors:
+    - '#DF2830'
     - '#FFFFFF'
-    - '#49435D'
-    - '#9A7FA4'
-    - '#A4B2E0'
-    - '#DFBEBD'
+    - '#420E0D'
+    - '#F2A339'
+    - '#C5D965'
   rhythmicContrast: 0.4890388
 layout_spectrum: 0.1526138
 name: Fosterandflourish
