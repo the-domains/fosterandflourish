@@ -1,29 +1,26 @@
-name: Fosterandflourish
-favicon: null
-layout_spectrum: 0.37277
-typography_spectrum: 0.89364
-title: 'Foster & Flourish'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
-  brandColors:
-    - '#ecd3b8'
-    - '#080904'
-    - '#7a0f07'
-    - '#ffffff'
-    - '#635158'
-  brandStrength: 0.3125
+  saturation: 0.8735244
+  brandStrength: 0.772344
   lightness: 0.04763776
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+  brandColors:
+    - '#FFFFFF'
+    - '#D8BEA3'
+    - '#1F0C04'
+    - '#776478'
+    - '#9A271F'
+  rhythmicContrast: 0.8347386
+layout_spectrum: 0.6551433
+name: Fosterandflourish
